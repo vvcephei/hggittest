@@ -1,5 +1,5 @@
 package org.opennlp.foo
 object FooHi {
-  def getSecret = 99998888777712345;
+  def getSecret = 999988;
   def main(args: Array[String]) = println("Foo Hi! "+getSecret)
 }
